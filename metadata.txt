@@ -1,0 +1,10 @@
+[general]
+name=WU-Simulator
+email=dheepikatnr01@gmail.com
+author=Dheepika .P
+description=Simulate Work Unit animations with forward/backward controls in QGIS.
+about=WU-Simulator is a dock-based plugin that animates line features based on work unit ID.
+version=1.0.0
+qgisMinimumVersion=3.10
+icon=icon.png
+
